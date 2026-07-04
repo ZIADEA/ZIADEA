@@ -83,5 +83,3 @@
 | [ZIADEA](https://github.com/ZIADEA/ZIADEA) | Depot de profil GitHub (README). | ![](https://img.shields.io/github/last-commit/ZIADEA/ZIADEA) |
 
 ## Liens
-
-- Email : [djeryala@gmail.com](mailto:djeryala@gmail.com)
