@@ -63,7 +63,7 @@
 
 | Depot | Description | Derniere activite |
 |---|---|---|
-| [ACADEMIC-PROJECT-3-base-de-donner-Airline-ticket-management-system](https://github.com/ZIADEA/ACADEMIC-PROJECT-3-base-de-donner-Airline-ticket-management-system) | Systeme de gestion de billets aeriens en R. | ![](https://img.shields.io/github/last-commit/ZIADEA/ACADEMIC-PROJECT-3-base-de-donner-Airline-ticket-management-system) |
+| [2ACADEMIC-PROJECTS-groupe-project](https://github.com/ZIADEA/2ACADEMIC-PROJECTS-groupe-project) | Systeme de gestion de billets aeriens en R. | ![](https://img.shields.io/github/last-commit/ZIADEA/ACADEMIC-PROJECT-3-base-de-donner-Airline-ticket-management-system) |
 | [PERSONAL-PROJECT-2--CESAM-BENI-MELLAL-TREASURY-MANAGER](https://github.com/ZIADEA/PERSONAL-PROJECT-2--CESAM-BENI-MELLAL-TREASURY-MANAGER) | Gestionnaire de tresorerie pour l'organisation CESAM Beni Mellal. | ![](https://img.shields.io/github/last-commit/ZIADEA/PERSONAL-PROJECT-2--CESAM-BENI-MELLAL-TREASURY-MANAGER) |
 
 ## Travaux pratiques de programmation
