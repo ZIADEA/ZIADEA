@@ -5,7 +5,7 @@
 
 | Depot | Description | Derniere activite |
 |---|---|---|
-| [meine-Arbeit](https://github.com/ZIADEA/meine-Arbeit) | Bureaux d'etudes (BE), conception CATIA, SolidWorks, Ansys, rapports de simulation. | ![](https://img.shields.io/github/last-commit/ZIADEA/meine-Arbeit) |
+| [meine-Arbeit](https://github.com/ZIADEA/meine-Arbeit) | BE et rapports . | ![](https://img.shields.io/github/last-commit/ZIADEA/meine-Arbeit) |
 
 ## Intelligence artificielle et machine learning
 
