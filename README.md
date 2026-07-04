@@ -10,7 +10,7 @@
 
 | Depot | Description | Derniere activite |
 |---|---|---|
-| [production_management](https://github.com/ZIADEA/production_management) | TP et travaux sur la gestion de production, Lean, demarche qualite, MSP (maitrise statistique des procedes), systemes de production. | ![](https://img.shields.io/github/last-commit/ZIADEA/production_management) |
+| [production_management](https://github.com/ZIADEA/production_management) | TP et travaux sur la gestion de production, Lean, demarche qualite, MSP (maitrise statistique des procedes), systemes de production , maintenance. | ![](https://img.shields.io/github/last-commit/ZIADEA/production_management) |
 
 ## Intelligence artificielle et machine learning
 
