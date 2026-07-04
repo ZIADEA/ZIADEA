@@ -81,3 +81,5 @@
 |---|---|---|
 | [ZIADEA](https://github.com/ZIADEA/ZIADEA) | Depot de profil GitHub (README). | ![](https://img.shields.io/github/last-commit/ZIADEA/ZIADEA) |
 
+
+quote "you don t need a degree to do most of this"
