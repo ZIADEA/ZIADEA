@@ -57,7 +57,7 @@
 |---|---|---|
 | [AMR-navigation-autonome-dans-un-environnement-controle-DIY-ROBOT](https://github.com/ZIADEA/AMR-navigation-autonome-dans-un-environnement-controle-DIY-ROBOT) | Robot autonome pour navigation en environnement controle. | ![](https://img.shields.io/github/last-commit/ZIADEA/AMR-navigation-autonome-dans-un-environnement-controle-DIY-ROBOT) |
 | [signal-generator](https://github.com/ZIADEA/signal-generator) | Generateur de signaux. | ![](https://img.shields.io/github/last-commit/ZIADEA/signal-generator) |
-| [projetVR](https://github.com/ZIADEA/projetVR) | Projet de realite virtuelle. | ![](https://img.shields.io/github/last-commit/ZIADEA/projetVR) |
+| [TP_XR](https://github.com/ZIADEA/TP_XR) |  Travaux pratiques de XR . | ![](https://img.shields.io/github/last-commit/ZIADEA/projetVR) |
 
 ## Bases de donnees et gestion
 
