@@ -1,8 +1,5 @@
-# Salut, je suis ZIADEA
+# Salut
 
-Etudiant ingenieur
-
-Email : [djeryala@gmail.com](mailto:djeryala@gmail.com)
 
 ## Konstruktionsbüro
 
