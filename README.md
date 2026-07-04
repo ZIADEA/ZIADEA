@@ -1,11 +1,16 @@
 # Salut
 
-
 ## Konstruktionsbüro
 
 | Depot | Description | Derniere activite |
 |---|---|---|
 | [meine-Arbeit](https://github.com/ZIADEA/meine-Arbeit) | BE et rapports . | ![](https://img.shields.io/github/last-commit/ZIADEA/meine-Arbeit) |
+
+## Gestion de production
+
+| Depot | Description | Derniere activite |
+|---|---|---|
+| [production_management](https://github.com/ZIADEA/production_management) | TP et travaux sur la gestion de production, Lean, demarche qualite, MSP (maitrise statistique des procedes), systemes de production. | ![](https://img.shields.io/github/last-commit/ZIADEA/production_management) |
 
 ## Intelligence artificielle et machine learning
 
@@ -57,13 +62,13 @@
 |---|---|---|
 | [AMR-navigation-autonome-dans-un-environnement-controle-DIY-ROBOT](https://github.com/ZIADEA/AMR-navigation-autonome-dans-un-environnement-controle-DIY-ROBOT) | Robot autonome pour navigation en environnement controle. | ![](https://img.shields.io/github/last-commit/ZIADEA/AMR-navigation-autonome-dans-un-environnement-controle-DIY-ROBOT) |
 | [signal-generator](https://github.com/ZIADEA/signal-generator) | Generateur de signaux. | ![](https://img.shields.io/github/last-commit/ZIADEA/signal-generator) |
-| [TP_XR](https://github.com/ZIADEA/TP_XR) |  Travaux pratiques de XR . | ![](https://img.shields.io/github/last-commit/ZIADEA/projetVR) |
+| [TP_XR](https://github.com/ZIADEA/TP_XR) | Travaux pratiques de XR . | ![](https://img.shields.io/github/last-commit/ZIADEA/TP_XR) |
 
 ## Bases de donnees et gestion
 
 | Depot | Description | Derniere activite |
 |---|---|---|
-| [2ACADEMIC-PROJECTS-groupe-project](https://github.com/ZIADEA/2ACADEMIC-PROJECTS-groupe-project) | Systeme de gestion de billets aeriens en R. | ![](https://img.shields.io/github/last-commit/ZIADEA/ACADEMIC-PROJECT-3-base-de-donner-Airline-ticket-management-system) |
+| [2ACADEMIC-PROJECTS-groupe-project](https://github.com/ZIADEA/2ACADEMIC-PROJECTS-groupe-project) | Systeme de gestion de billets aeriens en R. | ![](https://img.shields.io/github/last-commit/ZIADEA/2ACADEMIC-PROJECTS-groupe-project) |
 | [PERSONAL-PROJECT-2--CESAM-BENI-MELLAL-TREASURY-MANAGER](https://github.com/ZIADEA/PERSONAL-PROJECT-2--CESAM-BENI-MELLAL-TREASURY-MANAGER) | Gestionnaire de tresorerie pour l'organisation CESAM Beni Mellal. | ![](https://img.shields.io/github/last-commit/ZIADEA/PERSONAL-PROJECT-2--CESAM-BENI-MELLAL-TREASURY-MANAGER) |
 
 ## Travaux pratiques de programmation
@@ -81,6 +86,6 @@
 |---|---|---|
 | [ZIADEA](https://github.com/ZIADEA/ZIADEA) | Depot de profil GitHub (README). | ![](https://img.shields.io/github/last-commit/ZIADEA/ZIADEA) |
 
-##    
- 
-quote "you don t need a degree to do most of this"
+---
+
+> "You don't need a degree to do most of this."
