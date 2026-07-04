@@ -79,7 +79,5 @@
 
 | Depot | Description | Derniere activite |
 |---|---|---|
-| [detectron2_windows_installation_guide](https://github.com/ZIADEA/detectron2_windows_installation_guide) | Guide d'installation de Detectron2 sous Windows. | ![](https://img.shields.io/github/last-commit/ZIADEA/detectron2_windows_installation_guide) |
 | [ZIADEA](https://github.com/ZIADEA/ZIADEA) | Depot de profil GitHub (README). | ![](https://img.shields.io/github/last-commit/ZIADEA/ZIADEA) |
 
-## Liens
