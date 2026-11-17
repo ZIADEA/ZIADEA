@@ -88,4 +88,4 @@
 
 ---
 
-> "You don't need a degree to do most of this."
+> "You don't need a degree to build most of this, but school still helps but just don't take and IT major in this AI ecconomy bro you'll regret. I'm still figuring out where life is taking me, and I'm learning along the way. "
